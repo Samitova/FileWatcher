@@ -64,5 +64,4 @@ namespace FileWatcher
             } while (!_isStop);
         }
     }
-
 }
